@@ -1290,7 +1290,7 @@ public void start(Stage primaryStage) throws IOException {
         		+ "\n"
         		+ "Hero Selection: Press single click to show hero information, double click on the hero to start the game. \n" 
         		+ "Cycle through heroes : Click on the hero's icon to play with him. \n"+ "\n"
-        		+ "Each hero type has a unique action they can add to the player’s team: \n"
+        		+ "Each hero type has a unique action they can add to the playerÂ’s team: \n"
         		+ "      -Explorer: Allows the player to be able to see the entirety of the map for 1 turn whenever \n"
         		+ "        		   supply is used.\n"
         		+ "       -Medic: Can heal and restore health to other heroes or themselves, each process of healing \n"
